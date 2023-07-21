@@ -1,6 +1,6 @@
+using BlazorApp1.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using BlazingPizzaSite.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
